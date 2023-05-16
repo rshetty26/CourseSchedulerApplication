@@ -16,3 +16,13 @@ classes besides the main GUI class. Your database accesses should be in the clas
 that correlate with the database tables.
 <br/><br/>
 A database with cleared tables has been uploaded as a zip file.
+<br/><br/>
+GUI:
+<br/>
+<img src="https://i.imgur.com/FoYbKb7.png"/>
+<br/>
+<img src="https://i.imgur.com/0tXOO5d.png"/>
+<br/>
+<img src="https://i.imgur.com/0ovQUQb.png"/>
+<br/>
+<img src="https://i.imgur.com/na6TrdY.png"/>
